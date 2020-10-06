@@ -517,7 +517,6 @@ input[type="button"] {
     font-size: 18px;
 }
 
-
 .carousel-control-next-icon,
 .carousel-control-prev-icon {
     background-image: none;
@@ -550,10 +549,6 @@ input[type="button"] {
     z-index: 1;
 }
 
-/* .col-lg-1 {
-    width: 80px;
-} */
- 
 .container-fluid .left-panel .content-wrap .slogan {
     position: absolute;
     width: max-content;
